@@ -1,6 +1,6 @@
 # Hi, I'm Fabrum ✨
 
-I'm a [your role — e.g. "Full-stack developer"] who builds [what you build — e.g. "scalable web apps and APIs"]. I focus on [primary tech/area], and I enjoy turning ideas into production-ready software.
+I'm a ML researcher. I focus on reinforment learning for Vision tasks, and I enjoy turning ideas into production-ready software.
 
 - 🔭 I’m currently: [working on X / open to opportunities / learning Y]
 - 🌱 I’m learning: [e.g. Rust, ML, System Design]
