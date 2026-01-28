@@ -10,38 +10,12 @@ I'm a ML researcher. I focus on reinforment learning for Vision tasks, and I enj
 ---
 
 ## Skills
-- Languages: JavaScript (Node.js), TypeScript, Python, Go
-- Web: React, Next.js, Express, GraphQL
-- Data & infra: PostgreSQL, Redis, Docker, Kubernetes, AWS
-- Tools: Git, CI/CD, testing, observability
-
----
+# Relentless
 
 ## Selected Projects
-- [Project One](https://github.com/yourname/project-one) — One-line summary: what it does and why it's notable.
-- [Project Two](https://github.com/yourname/project-two) — One-line: key tech and impact (e.g. served X users).
-- [Project Three](https://github.com/yourname/project-three) — One-line: interesting technical challenge solved.
-
-(You can pin these projects to your profile for visibility.)
-
----
-
-## Experience
-- Senior Software Engineer — Company A (YYYY — Present)  
-  Brief bullets: main responsibilities, key accomplishments, outcomes (metrics if possible).
-- Software Engineer — Company B (YYYY — YYYY)  
-  Short highlights.
-
----
-
-## Education
-- Degree, Major — University (YYYY — YYYY)
-- Certificates: e.g. AWS Certified Solutions Architect, etc.
-
----
-
-## Downloads
-- Resume/CV: [Download PDF](https://your-website.com/resume.pdf)
+- [One](https://github.com/yourname/project-one) — One-line summary: ...
+- [Two](https://github.com/yourname/project-two) — One-line summary: ...
+- [Three](https://github.com/yourname/project-three) — One-line summary: ...
 
 ---
 
