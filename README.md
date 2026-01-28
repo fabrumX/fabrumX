@@ -9,8 +9,7 @@ I'm a ML researcher. I focus on reinforment learning for Vision tasks, and I enj
 
 ---
 
-## Skills
-# Relentless
+## Skill - Relentless
 
 ## Selected Projects
 - [One](https://github.com/yourname/project-one) — One-line summary: ...
